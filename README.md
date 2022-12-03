@@ -1,0 +1,2 @@
+# MyNotepad
+Notepad in java 
